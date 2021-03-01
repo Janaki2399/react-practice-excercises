@@ -1,5 +1,5 @@
 # react-practice-exercises
-````Ex0: **Simple Counter** - <https://codesandbox.io/s/counter-ex0-jewu5?file=/src/App.js>
+````Ex0: ** Simple Counter ** - https://codesandbox.io/s/counter-ex0-jewu5?file=/src/App.js
     Ex1: **Character Count** - <https://codesandbox.io/s/twittercharactercount-p5wiu>
     Ex2: **Password Match** - https://codesandbox.io/s/passwordmatch-siwxo/
     Ex3: **Disable Submit** - https://codesandbox.io/s/disablesubmit-6pdez?file=/src/App.js
